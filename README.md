@@ -16,7 +16,6 @@ This project is a quick and cheap placeholder while the full website is under co
 ## Frameworks & Toolkits
 
 - Bootstrap 4.x
-- Font Awesome
 
 
 
