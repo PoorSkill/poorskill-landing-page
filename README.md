@@ -1,5 +1,5 @@
 # poorskill-landing-page
-Personal website landing page while full website is under development
+Personal website landing page while the full website is under development
 
 ## Background
 
